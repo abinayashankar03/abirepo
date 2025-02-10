@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this line is not so important 
 $$$$$
+=======
+this line is important
+>>>>>>> 1021d0d2d45b8ca6bbf154b734ae809d9ba52276
